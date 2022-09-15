@@ -1,4 +1,4 @@
-<h1>Java Spring Application For Fİnding Housemate in University<h1>
+<h1>Java Spring Application For Finding Housemate in University<h1>
   
 <h3>Here is the abstracts of layered architecture<h3>
   
