@@ -61,9 +61,7 @@ public class House {
     @JoinColumn(name="owner_id")
     private List<HouseOwner> ownerId;
 
-    //sanırım bu kolona birden fazla ec sahibi gelebileceği için
-    //liste içine almamız gerekti
-    //house u ownerId den bulma
+
 
 
 

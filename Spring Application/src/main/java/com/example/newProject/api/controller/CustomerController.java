@@ -38,12 +38,12 @@ public class CustomerController {
 
 
 
-    //update daha iyi nasıl yapılabilirdi???
+
     @PutMapping("/update")
     public Customer update(@RequestBody Customer customer) {
         this.customerService.add(customer);
         return null;
-//        return (ResponseEntity) ResponseEntity.status(HttpStatus.CREATED);
+
     }
 
 

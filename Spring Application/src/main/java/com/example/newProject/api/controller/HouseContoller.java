@@ -38,10 +38,7 @@ public class HouseContoller {
     }
 
 
-//    @Autowired
-//    HouseDao houseDao;
-//    @GetMapping("/getByOwnerId")
-//
+
     @GetMapping("/getByOwnerId")
     public House getByOwnerId(@RequestParam int ownerId){
         return this.houseDao.getByOwnerId(ownerId);

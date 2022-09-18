@@ -53,7 +53,7 @@ public class HouseOwner {
 
     //1 ev sahibi yalnız 1 evde oturabilir
     @OneToOne()
-    @JoinColumn(name="house_id")   //normalde varsa bağlanırdı ama bağlanmadı (yoksa bu id ile oluşturulur ama)
+    @JoinColumn(name="house_id")
     private House house;
     //tabloda başta house attribute ü olmasa bile kod ile oluşur
 
