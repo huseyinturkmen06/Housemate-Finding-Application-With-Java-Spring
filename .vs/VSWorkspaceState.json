@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Spring Application",
+    "\\Spring Application\\src",
+    "\\Spring Application\\src\\main",
+    "\\Spring Application\\src\\main\\java",
+    "\\Spring Application\\src\\main\\java\\com",
+    "\\Spring Application\\src\\main\\java\\com\\example",
+    "\\Spring Application\\src\\main\\java\\com\\example\\newProject",
+    "\\Spring Application\\src\\main\\java\\com\\example\\newProject\\Repositories",
+    "\\Spring Application\\src\\main\\java\\com\\example\\newProject\\Services"
+  ],
+  "SelectedNode": "\\Spring Application\\src\\main\\java\\com\\example\\newProject\\Entities\\Customer.java",
+  "PreviewInSolutionExplorer": false
+}

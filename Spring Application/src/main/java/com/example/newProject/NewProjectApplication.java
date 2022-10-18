@@ -1,11 +1,11 @@
 package com.example.newProject;
 
-import com.example.newProject.dataAccess.abstracts.HouseDao;
-import com.example.newProject.entities.concretes.House;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import springfox.documentation.swagger2.annotations.EnableSwagger2;
 
 @SpringBootApplication
+//@EnableSwagger2
 public class NewProjectApplication {
 
 	public static void main(String[] args) {
